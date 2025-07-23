@@ -1,8 +1,7 @@
-# 👋🏻 Hey There! I'm Rohan Navalyal
-
+#         👋🏻 Hey There! I'm Rohan Navalyal
 🎓 I’m currently pursuing my degree in **Information Science** at **BMS College of Engineering**, Bangalore.
 
----
+
 
 ## About Me
 
